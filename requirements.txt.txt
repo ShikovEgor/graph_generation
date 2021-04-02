@@ -1,0 +1,12 @@
+torch==1.7.1+cu101
+torch-geometric==1.6.3
+torch-scatter==2.0.6
+torch-sparse==0.6.8
+torchaudio==0.7.2
+torchvision==0.8.2+cu101
+pytorch-fast-transformers==0.3.0
+performer-pytorch==0.15.2
+optuna==2.6.0
+pathlib2==2.3.5
+numpy==1.19.2
+networkx==2.5
